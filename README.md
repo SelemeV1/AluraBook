@@ -31,4 +31,5 @@ Publicar o projeto de forma gratuita utilizando o Vercel.
 
 🌐 Link de visualização
 
-👉 Acesse aqui o projeto hospedado no Vercel
+👉 [Acesse aqui o projeto hospedado no Vercel
+](https://alura-book-h1j5fyl06-selekv1s-projects.vercel.app/#)
