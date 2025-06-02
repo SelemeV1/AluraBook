@@ -1,8 +1,34 @@
-<h1>Descrição do projeto AluraBook</h1>
-Projeto feito através do curso da Alura sobre responsividade com mobile-first. 
+📄 Descrição do Projeto
 
-## ✔️ Técnicas e tecnologias utilizadas
+Este é um projeto desenvolvido com base nos cursos da Alura, reproduzindo a interface do Alura Books, uma livraria online fictícia. O objetivo principal foi consolidar habilidades em HTML5 e CSS3, com foco no desenvolvimento de interfaces modernas e responsivas.
 
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank"><img src="https://devicon-website.vercel.app/api/html5/original.svg" alt="java" width="60" height="60"/></img></a>
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank"><img src="https://devicon-website.vercel.app/api/css3/original.svg" alt="java" width="60" height="60"/></img></a> 
+Neste projeto, foram aplicadas diversas técnicas importantes de desenvolvimento front-end, tais como:
 
+✅ Estruturação semântica e acessível com HTML.
+
+✅ Estilização com CSS, utilizando variáveis e boas práticas de organização.
+
+✅ Aplicação de Flexbox e Grid para construção de layouts responsivos.
+
+✅ Criação de menus de navegação e banners chamativos.
+
+✅ Desenvolvimento de um design adaptável para diferentes dispositivos e tamanhos de tela.
+
+🚀 Tecnologias utilizadas
+
+HTML5
+
+CSS3
+
+🎯 Objetivos alcançados
+
+Consolidar conhecimentos em estruturação e estilização web.
+
+Praticar técnicas de responsividade com Flexbox e Grid Layout.
+
+Publicar o projeto de forma gratuita utilizando o Vercel.
+
+
+🌐 Link de visualização
+
+👉 Acesse aqui o projeto hospedado no Vercel
